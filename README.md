@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am pursuing at 3rd year Engineering in Cse<br>At MS Ramaiah University
+I am pursuing at 3rd year Engineering in Cse<br>At MS Ramaiah University Of Applied Sciences
 
 
 ## 🌐 Socials:
