@@ -1,12 +1,8 @@
 # 💫 About Me:
 
-I am a **3rd-Year Computer Science & Engineering Student** at **M.S. Ramaiah University of Applied Sciences (MSRUAS)**, passionate about building full-stack web platforms, multi-agent AI systems, and real-time applications.
+# 💫 About Me:
 
-- 🔭 **Currently Working On:** [AgriMind AI](https://github.com/Srujan73389/AgriMind-AI) – Multi-Agent Smart Farming & Precision Agritech Platform.
-- 🚀 **Featured Projects:** [IPL Auction App](https://github.com/Srujan73389/ipl-auction-app) • [DSA-Leetcode Solutions](https://github.com/Srujan73389/DSA-Leetcode)
-- 🎓 **Education:** B.Tech in CSE @ M.S. Ramaiah University of Applied Sciences (2023 – 2027)
-- ⚡ **Interests:** Multi-Agent AI Systems, Full-Stack Web Development, Data Structures & Algorithms
-- 💬 **Ask Me About:** React.js, Next.js, Node.js, Express, Python, MongoDB, & TypeScript
+I am a **4th-Year Computer Science & Engineering Student** at **M.S. Ramaiah University of Applied Sciences (MSRUAS)**, passionate about full-stack web development, AI systems, and building real-time applications.
 
 ---
 
